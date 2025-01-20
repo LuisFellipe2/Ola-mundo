@@ -1,5 +1,5 @@
 # Olá, mundo
- Primeiro repositorio do curso GIT GITHUB
+ **Primeiro repositorio** do curso GIT GITHUB
 
  Repositorio criado durante uma aula ao vivo!
 
